@@ -1,0 +1,169 @@
+* {
+  padding: 0;
+  margin: 0;
+  right: 0;
+  left: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", arial;
+}
+.logo h2 {
+  font-size: 24px;
+  color: #f9faf8;
+}
+.all {
+  padding-top: 1rem;
+  background-color: #1f2937;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.bottom{
+ 
+  height: 300px;
+
+}
+.top {
+  display: flex;
+  align-items: center;
+  gap: 23rem;
+}
+.links {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.left h1 {
+  font-size: 48px;
+  font-style: extra-bold;
+  color: #f9faf8;
+}
+.left p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.left button
+{
+  background-color: #3882f6;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 3px;
+  padding: 0.4rem;
+  padding-left: 0.8rem;
+}
+.main {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+.right {
+ 
+  padding: 6rem;
+ 
+}
+.middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3rem;
+  gap: 3rem;
+  padding-bottom: 7rem;
+}
+.second h1 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+}
+.flex1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 1rem;
+  color: #9f9f9f;
+}
+.flex1 span {
+  border: 4px solid #3882f6;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 1rem;
+}
+.flex1 {
+  font-size: 16px;
+  font-weight: bold;
+}
+.quote {
+  background-color: #e5e7eb;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.quote h1 {
+  font-size: 20px;
+  color: #1f2937;
+  font-weight: 200;
+}
+.quote p 
+{
+  font-weight: bolder;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 28rem;
+  margin-top: 10rem;
+
+}
+
+.blue
+{
+  margin-top: 10rem;
+  height: 120px;
+  width: 50rem;
+  background-color: #3882f6;
+  margin-left: 15rem;
+  color: #e5e7eb; 
+  border-radius:3px;
+  font-weight: bold;
+  padding: 30px;
+}
+.blue h2
+{
+  margin-left:5rem;
+  font-size: 14px;
+  padding: 30px;
+  
+}
+.footer
+{
+  background-color: #1f2937;
+  margin-top: 8rem;
+  height: 80px;
+  width: 100%;
+  color: #e5e7eb; 
+  font-weight: bold;
+
+}
+.footer p
+{
+  padding: 40px;
+  text-align: center;
+}
+
